@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/about.png</file>
+        <file>Resources/background.png</file>
+        <file>Resources/close.png</file>
+        <file>Resources/default_album.jpg</file>
+        <file>Resources/full.png</file>
+        <file>Resources/last.png</file>
+        <file>Resources/logo-16.png</file>
+        <file>Resources/logo-32.png</file>
+        <file>Resources/logo-48.png</file>
+        <file>Resources/lrc_background.png</file>
+        <file>Resources/lyr.png</file>
+        <file>Resources/lyric.png</file>
+        <file>Resources/mini.png</file>
+        <file>Resources/mode.png</file>
+        <file>Resources/next.png</file>
+        <file>Resources/pause.png</file>
+        <file>Resources/play.png</file>
+        <file>Resources/volume.png</file>
+        <file>Resources/add.png</file>
+        <file>Resources/add2.png</file>
+        <file>Resources/close2.png</file>
+        <file>Resources/last2.png</file>
+        <file>Resources/logo.png</file>
+        <file>Resources/logo2.png</file>
+        <file>Resources/lyr2.png</file>
+        <file>Resources/min.png</file>
+        <file>Resources/min2.png</file>
+        <file>Resources/mini2.png</file>
+        <file>Resources/minin.png</file>
+        <file>Resources/minin2.png</file>
+        <file>Resources/mode2.png</file>
+        <file>Resources/next2.png</file>
+        <file>Resources/nextmini.png</file>
+        <file>Resources/pause2.png</file>
+        <file>Resources/pausemini.png</file>
+        <file>Resources/play2.png</file>
+        <file>Resources/playmini.png</file>
+        <file>Resources/volumne2.png</file>
+    </qresource>
+</RCC>

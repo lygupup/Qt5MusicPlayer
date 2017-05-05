@@ -1,5 +1,6 @@
-#IcePlayer
-A MusicPlayer Coded By Qt 5.7.
 
-#Instruction:
-使用Qt UI设计师重写了网上的IcePlayer播放器，实现了本地的基本功能，对代码进行了部分简化和重改，调试了很多小bug，在mac Qt5.7下可以运行。
+介绍： 一个基于Qt实现的本地音乐播放器
+
+说明： 使用Qt UI设计师重写了网上的IcePlayer播放器，实现了本地的基本功能，对代码进行了部分简化和重改，调试了很多小bug
+
+环境： 在Mac Qt5.7 下可完美运行
